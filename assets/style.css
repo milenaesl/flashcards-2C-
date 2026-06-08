@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
+
+:root{
+  --text-color: #ffffff;
+  --card-front-color: #AF3438;
+  --card-back-color: #772D2D;
+}
+
+body {
+  background: url(img/bg-desktop-red.webp);
+  font-family: Gluten;
+}
+Ok, posso avançar agora!
